@@ -6,6 +6,7 @@
 #SBATCH --mem=120gb			                 # Total memory for job
 #SBATCH --output=path/to/output/log.%j		 # Location of standard output and error log files 
 
+# Created by Fiifi Agyabeng-Dadzie
 # --------------------------------------
 # STEP 1: CHECK THE REACOUNT AND QUALITY
 # --------------------------------------
